@@ -1,0 +1,3 @@
+/home/adam/Downloads/newest version/ADS_Midterm SPP (3)/ADS_Midterm SPP/cmake-build-debug/CMakeFiles/ADS_Midterm.dir
+/home/adam/Downloads/newest version/ADS_Midterm SPP (3)/ADS_Midterm SPP/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/adam/Downloads/newest version/ADS_Midterm SPP (3)/ADS_Midterm SPP/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/ADS_Midterm.dir/main.cpp.o CMakeFiles/ADS_Midterm.dir/Graph.cpp.o -o ADS_Midterm 
